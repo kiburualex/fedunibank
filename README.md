@@ -1,11 +1,15 @@
-# BUILD A PRODUCT: FedUni Banking
+# PRODUCT: FedUni Banking Simulation
 
-## Introduction
-* This is a simulation of FedUni Banking operations
+## Description
+* This is a simulation of FedUni Banking operations which include:
+  * Login
+  * Deposit
+  * Withdrawal
+  * logout
 
 ## Technologies used.
 * **[Python3](https://www.python.org/downloads/)**
-* **[Tkinter](https://docs.python.org/2/library/tkinter.html)**
+* **[Tkinter](https://docs.python.org/3/library/tkinter.html)**
 
 ## Installation guide and usage
 
@@ -15,6 +19,10 @@
     ```
 
  #### **Install Tkinter.**
+
+ ### **Install MatPlotLib**
+ python3 -mpip install matplotlib.
+
  #### **Run the app**
    ```
     $ python main.py
