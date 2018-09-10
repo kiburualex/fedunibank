@@ -29,11 +29,11 @@
 
  #### **Run the app**
    ```
-    $ python main.py
+    $ python3 main.py
    ```
  #### **Run Tests**
   ```
-    $ python testbankaccount.py
+    $ python3 testbankaccount.py
   ```
  #### **Screenshots**
 ![peek 2018-09-10 23-12](https://user-images.githubusercontent.com/20510635/45322444-f196c080-b550-11e8-8757-e7b9789848ca.gif)
