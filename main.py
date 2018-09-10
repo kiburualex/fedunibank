@@ -291,6 +291,7 @@ def calculate_monthly_interests(amount, interest):
     totals.append((1, next_month_amount))
 
     """
+        yearly interest = interest
         monthly interest = interest / 12
     """
     monthly_interest = interest/12
