@@ -25,8 +25,8 @@
 
  #### **Install Tkinter.**
 
- ### **Install MatPlotLib**
- python3 -mpip install matplotlib.
+ #### **Install MatPlotLib**
+ ```python3 -m pip install matplotlib```
 
  #### **Run the app**
    ```
