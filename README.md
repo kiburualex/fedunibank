@@ -17,6 +17,11 @@
     ```
     $ git clone https://github.com/kiburualex/fedunibank.git
     ```
+ #### **Login details.**
+    ```
+    accound_id = 123456
+    pin = 7890
+    ```
 
  #### **Install Tkinter.**
 
